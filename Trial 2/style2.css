@@ -1,0 +1,8 @@
+#gameCanvas {
+    border-color: black;
+    background-color: cornflowerblue;
+}
+
+#imgplayer {
+    display: none;
+}
